@@ -1,4 +1,4 @@
-class prog4{
+class Prog4{
 public static void main(String[]args){
  int a,b;
  a=0;
