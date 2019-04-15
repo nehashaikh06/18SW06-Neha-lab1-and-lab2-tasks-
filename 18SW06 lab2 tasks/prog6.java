@@ -1,4 +1,4 @@
-class prog6{
+class Prog6{
 public static void main(String[]args){
 int r=4;
 float pi=3.14f;
