@@ -1,4 +1,4 @@
-class prog5
+class Prog5
 {
 public static void main(String[]args){
   float a,b,c,d,e;
